@@ -24,3 +24,10 @@ print("Total Char in Multiline constant variable", totalCharecture)
 
 let isStringStartWith = multiLineString.hasPrefix("T")
 print("isStringStartWith", isStringStartWith)
+
+
+let a = 1
+let b = 2.8
+
+let result = Int(a)+Int(b)
+print(result)
